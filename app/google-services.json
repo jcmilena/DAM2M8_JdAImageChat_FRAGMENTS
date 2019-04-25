@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "229331234165",
+    "firebase_url": "https://jdaimagechatmac.firebaseio.com",
+    "project_id": "jdaimagechatmac",
+    "storage_bucket": "jdaimagechatmac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229331234165:android:4e8af414159e807b",
+        "android_client_info": {
+          "package_name": "com.example.jcmilena.jdaimagechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229331234165-c1jchs3coi9vnp0fs0hta9p4rv2gkrf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jcmilena.jdaimagechat",
+            "certificate_hash": "4553a3e45fe3f3cd5eaf5cd3e01a154b50a13649"
+          }
+        },
+        {
+          "client_id": "229331234165-lnhbs1frvpe55irrgn621irulun9vghv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSMJlH4YO1GEMmJQoOGgjYG51I0g9H5Ys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229331234165-lnhbs1frvpe55irrgn621irulun9vghv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
